@@ -1,1 +1,2 @@
-"# middle_earth_site" 
+A site about some location in Middle Earth.
+
