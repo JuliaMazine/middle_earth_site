@@ -1,2 +1,2 @@
-A site about some location in Middle Earth.
+A site about some places in Middle Earth.
 
